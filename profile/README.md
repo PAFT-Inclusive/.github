@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to PAFT Financial Services Private Limited.
 We're about providing financial services and supports,trust activities to clients and organisations
-you can know more about our trust activites in [pattrichy.org](https://pattrichy.org)
+you can know more about our financial activities in [patgroup.org](https://patgroup.org) and trust activites in [pattrichy.org](https://pattrichy.org)
 
 <!--
 
